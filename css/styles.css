@@ -38,6 +38,14 @@ input:focus, textarea:focus {
   outline: none;
 }
 
+/* portfolio index */
+.portfolio-container {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1500px;
+}
+
 .portfolio-content {
 	line-height: 2;
 	color: #555;
@@ -103,6 +111,20 @@ h1, h2, h3 {
 	width: 100%;
 	display: block;
 	object-fit: cover;
+}
+
+/* footer */
+.site-footer {
+	font-size: 16px;
+	font-style: normal;
+	line-height: 20px;
+	padding-bottom: 60px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 60px;
+	text-align: center;
+	text-transform: none;
+	width: 100%;
 }
 
 /* Image Hover Effect */
