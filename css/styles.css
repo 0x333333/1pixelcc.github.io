@@ -49,6 +49,8 @@ input:focus, textarea:focus {
 .portfolio-content {
 	line-height: 2;
 	color: #555;
+	max-width: 800px;
+	margin: auto;
 }
 
 .portfolio-content a {
@@ -111,6 +113,8 @@ h1, h2, h3 {
 	width: 100%;
 	display: block;
 	object-fit: cover;
+	max-width: 800px;
+	margin: auto;
 }
 
 /* footer */
